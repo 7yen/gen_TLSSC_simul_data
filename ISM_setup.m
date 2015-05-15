@@ -55,7 +55,7 @@ SetupStruc.c = 340;                   % (optional) propagation speed of acoustic
 SetupStruc.room = [8 8 3];        % room dimensions in m
 x= 4.0;  %SetupStruc.room(1)/2;
 y= 4.0;  %SetupStruc.room(2)/2;
-z= 0.2;  %0;
+z= 0.6;  %0;
 
 SetupStruc.mic_pos = [x+0.0000 y+0.1225 z+0.4280;   % 0
                       x+0.0866 y+0.0866 z+0.4290;   % 1
